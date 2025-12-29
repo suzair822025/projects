@@ -12476,12 +12476,9 @@ Location:
   background: var(--ztc-bg-bg-2);
   padding: 24px 32px;
   position: absolute;
-  top: 120;
+  top: 0;
   width: 100%;
   left: 0;
-}
-.homepage1-body .header-section-area .sidebar-main .sidebar-area .logo img {
-  max-width: 65%;
 }
 .homepage1-body .header-section-area .sidebar-main .sidebar-area .list-group img {
   filter: brightness(0) invert(1);
@@ -12881,6 +12878,9 @@ Location:
   top: 0;
   width: 100%;
   left: 0;
+}
+.homepage2-body .header-section-area .sidebar-area .logo img {
+  max-width: 65%;
 }
 .homepage2-body .header-section-area .sidebar-area .list-group img {
   filter: none !important;
