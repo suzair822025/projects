@@ -12875,7 +12875,7 @@ Location:
   background: var(--ztc-text-text-1);
   padding: 24px 32px;
   position: absolute;
-  top: 0;
+  top: 120;
   width: 100%;
   left: 0;
 }
