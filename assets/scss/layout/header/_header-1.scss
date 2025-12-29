@@ -701,15 +701,15 @@ body,html{
                     left: 0;
                 }
             .logo{
+                img{
+                    max-width: 65%;
+                }
                 background: var(--ztc-text-text-1);
                 padding: 24px 32px;
                 position: absolute;
                 top: 0;
                 width: 100%;
                 left: 0;
-                img{
-                    max-width: 65%;
-                }
             }
             .list-group{
                 img{
