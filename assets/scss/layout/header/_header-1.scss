@@ -704,9 +704,12 @@ body,html{
                 background: var(--ztc-text-text-1);
                 padding: 24px 32px;
                 position: absolute;
-                top: 50px;
+                top: 0px;
                 width: 100%;
                 left: 0;
+                img{
+                    max-width: 65%;
+                }
             }
             .list-group{
                 img{

@@ -12740,9 +12740,12 @@ Location:
   background: var(--ztc-text-text-1);
   padding: 24px 32px;
   position: absolute;
-  top: 50px;
+  top: 0px;
   width: 100%;
   left: 0;
+}
+.homepage2-body .header-section-area .sidebar-area .logo img {
+  max-width: 65%;
 }
 .homepage2-body .header-section-area .sidebar-area .list-group img {
   filter: none !important;
