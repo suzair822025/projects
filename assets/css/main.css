@@ -1747,7 +1747,7 @@ Location:
 }
 .homepage2-body .service1-section-area .service-boxs-area .service-author-box.box3 p {
   position: relative;
-  left: -60px !important;
+  left: 20px !important;
 }
 @media (max-width: 767px) {
   .homepage2-body .service1-section-area .service-boxs-area .service-author-box.box3 p {
