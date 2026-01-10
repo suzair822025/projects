@@ -806,9 +806,6 @@ Location:
   width: 140px;
   object-fit: cover;
 }
-.homepage2-body .mobile-header.mobile-haeder1 .mobile-header-elements .mobile-logo img {
-  max-width: 140px;
-}
 .homepage2-body .mobile-sidebar.mobile-sidebar1 {
   background: var(--ztc-text-text-3);
 }
